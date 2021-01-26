@@ -1,12 +1,11 @@
-
-.tops1{
+.srtops1{
 display: inline-block;
 position: relative;
 top: 2%;
 left: 15%;
 font-size: 60px;
 }
-.tops{
+.srtops{
 display: inline-block;
 position: relative;
 top: 4%;
@@ -14,7 +13,7 @@ left: 33%;
 width:40%;
 font-size: 20px;
 }
-.tops2{
+.stops2{
 display: block;
 background-color:#4A0E50;
 position: relative;
@@ -25,7 +24,7 @@ left: 15%;
 font-size: 20px;
 }
 
-.tops3{
+.rtops3{
 display: inline-block;
 position:relative;
 Color: white;
@@ -33,7 +32,7 @@ top:10%;
 left:15%;
 width:30%;
 }
-.img1{
+.imgsr1{
 display: inline-block;
 position: relative;
 top: 15%;
@@ -41,7 +40,7 @@ left: 25%;
 width: 40%;
 height: 70%
 }
-.tops22{
+.stops22{
 display: block;
 background-color:#CC5500;
 position: relative;
@@ -52,7 +51,7 @@ left: 15%;
 font-size: 20px;
 }
 
-.tops33{
+.rtops33{
 display: inline-block;
 position:relative;
 Color: white;
@@ -60,7 +59,7 @@ top:10%;
 left:15%;
 width:30%;
 }
-.img11{
+.imgsr11{
 display: inline-block;
 position: relative;
 top: 15%;
@@ -68,7 +67,7 @@ left: 25%;
 width: 40%;
 height: 70%
 }
-.tops222{
+.stops222{
 display: block;
 background-color:#4C0028;
 position: relative;
@@ -79,7 +78,7 @@ left: 15%;
 font-size: 20px;
 }
 
-.tops333{
+.rtops333{
 display: inline-block;
 position:relative;
 Color: white;
@@ -87,7 +86,7 @@ top:10%;
 left:15%;
 width:30%;
 }
-.img111{
+.imgsr111{
 display: inline-block;
 position: relative;
 top: 15%;
@@ -97,7 +96,7 @@ height: 70%
 }
 
 
-.tops2222{
+.stops2222{
 display: block;
 background-color:#2F4F4F;
 position: relative;
@@ -108,7 +107,7 @@ left: 15%;
 font-size: 20px;
 }
 
-.tops3333{
+.rtops3333{
 display: inline-block;
 position:relative;
 Color: white;
@@ -116,7 +115,7 @@ top:10%;
 left:15%;
 width:30%;
 }
-.img1111{
+.imgsr1111{
 display: inline-block;
 position: relative;
 top: 15%;
@@ -127,7 +126,7 @@ height: 70%
 
 
 
-.tops22222{
+.stops22222{
 display: block;
 background-color:#191970;
 position: relative;
@@ -138,7 +137,7 @@ left: 15%;
 font-size: 20px;
 }
 
-.tops33333{
+.rtops33333{
 display: inline-block;
 position:relative;
 Color: white;
@@ -146,7 +145,7 @@ top:10%;
 left:15%;
 width:30%;
 }
-.img11111{
+.imgsr11111{
 display: inline-block;
 position: relative;
 top: 15%;
@@ -157,7 +156,7 @@ height: 70%
 
 
 
-.button {
+.buttonsr {
     border: solid;
   
     padding: 10px 10px;
@@ -172,7 +171,7 @@ height: 70%
     margin-top: 10px;
     background-color:white;
   }
-#button-position{
+#button-positionsr{
     margin-left: 600px;
     margin-top: 330px;
   }
